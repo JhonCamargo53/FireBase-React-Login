@@ -60,7 +60,7 @@ const RequirementsForm = ({ getRequirementListArray, createRequirement, deleteRe
 
             Swal.fire({
                 title: 'Confirmación',
-                text: "¿Esta seguro de borrar este requerimiento?",
+                text: "¿Esta seguro de borrar esta solicitud?",
                 icon: 'warning',
                 showCancelButton: true,
                 cancelButtonText: 'Cancelar',
@@ -71,7 +71,7 @@ const RequirementsForm = ({ getRequirementListArray, createRequirement, deleteRe
                 if (result.isConfirmed) {
                     Swal.fire(
                         'Eliminado',
-                        'El requerimiento fue borrado',
+                        'Solicitud borrada',
                         'success'
                     )
                     deleteRequirement(requirementId)
