@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/FireBase-React-Login/static/css/main.a1a77b1e.css",
+    "main.js": "/FireBase-React-Login/static/js/main.11920271.js",
+    "static/media/img1.jpg": "/FireBase-React-Login/static/media/img1.05416ee96efc8180e0f2.jpg",
+    "static/media/loginHome.png": "/FireBase-React-Login/static/media/loginHome.f939fd7ed92d92ce4cc2.png",
+    "static/media/img2.jpg": "/FireBase-React-Login/static/media/img2.f530e09b0e3693845a53.jpg",
+    "static/media/requerimiento.png": "/FireBase-React-Login/static/media/requerimiento.caed26801b9a5c4cb3c6.png",
+    "index.html": "/FireBase-React-Login/index.html",
+    "main.a1a77b1e.css.map": "/FireBase-React-Login/static/css/main.a1a77b1e.css.map",
+    "main.11920271.js.map": "/FireBase-React-Login/static/js/main.11920271.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1a77b1e.css",
+    "static/js/main.11920271.js"
+  ]
+}
